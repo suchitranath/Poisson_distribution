@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+Suchitra Nath - Btech IT
+212223220112
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -69,7 +71,8 @@ else:
 
 # Output : 
 
-https://private-user-images.githubusercontent.com/93427522/240573602-66c445f7-50f1-4749-a102-9da761ccabcd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE3OTUwMDIsIm5iZiI6MTcxMTc5NDcwMiwicGF0aCI6Ii85MzQyNzUyMi8yNDA1NzM2MDItNjZjNDQ1ZjctNTBmMS00NzQ5LWExMDItOWRhNzYxY2NhYmNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzMwVDEwMzE0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0YzM2YTFjM2MxNjBhZDBmMTMyOGJlNWUzYWI4NDQ0MGZlYjJlYTliOTYyMzVmNTkyNWE1NDljZTViOTY5ZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Nf6LrLeOPB6EF4ZRRuoGshaf5VdbsWngw8i_VEh3FGc
+![image](https://github.com/suchitranath/Poisson_distribution/assets/145742631/8867ac7a-e9b4-4d22-a4d5-6205bff26594)
+
 
 # Results
 
